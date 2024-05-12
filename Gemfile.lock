@@ -79,7 +79,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     ast (2.4.2)
     base64 (0.2.0)
-    bigdecimal (3.1.7)
+    bigdecimal (3.1.8)
     bindex (0.8.1)
     bootsnap (1.18.3)
       msgpack (~> 1.2)
@@ -111,10 +111,10 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    i18n (1.14.4)
+    i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     io-console (0.7.2)
-    irb (1.13.0)
+    irb (1.13.1)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     jbuilder (2.12.0)
@@ -140,7 +140,7 @@ GEM
     minitest (5.22.3)
     msgpack (1.7.2)
     mutex_m (0.2.0)
-    net-imap (0.4.10)
+    net-imap (0.4.11)
       date
       net-protocol
     net-pop (0.1.2)
@@ -149,7 +149,7 @@ GEM
       timeout
     net-smtp (0.5.0)
       net-protocol
-    nio4r (2.7.1)
+    nio4r (2.7.3)
     nokogiri (1.16.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -177,7 +177,7 @@ GEM
     puma (6.4.2)
       nio4r (~> 2.0)
     racc (1.7.3)
-    rack (3.0.10)
+    rack (3.0.11)
     rack-session (2.0.0)
       rack (>= 3.0.0)
     rack-test (2.1.0)
@@ -218,8 +218,8 @@ GEM
     rake (13.2.1)
     rdoc (6.6.3.1)
       psych (>= 4.0.0)
-    regexp_parser (2.9.0)
-    reline (0.5.4)
+    regexp_parser (2.9.1)
+    reline (0.5.6)
       io-console (~> 0.5)
     rexml (3.2.6)
     rubocop (1.62.1)
@@ -377,4 +377,4 @@ RUBY VERSION
    ruby 3.3.1p55
 
 BUNDLED WITH
-   2.5.9
+   2.5.10
