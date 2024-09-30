@@ -79,7 +79,7 @@
 
 "@esbuild/linux-x64@0.17.11":
   version "0.17.11"
-  resolved "https://registry.yarnpkg.com/@esbuild/linux-x64/-/linux-x64-0.17.11.tgz#903fda743459f530a16a6c6ee8d2c0f6c1a12fc7"
+  resolved "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.17.11.tgz"
   integrity sha512-rM/v8UlluxpytFSmVdbCe1yyKQd/e+FmIJE2oPJvbBo+D0XVWi1y/NQ4iTNx+436WmDHQBjVLrbnAQLQ6U7wlw==
 
 "@esbuild/netbsd-x64@0.17.11":
@@ -114,12 +114,12 @@
 
 "@hotwired/stimulus@^3.2.1":
   version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@hotwired/stimulus/-/stimulus-3.2.1.tgz#e3de23623b0c52c247aba4cd5d530d257008676b"
+  resolved "https://registry.npmjs.org/@hotwired/stimulus/-/stimulus-3.2.1.tgz"
   integrity sha512-HGlzDcf9vv/EQrMJ5ZG6VWNs8Z/xMN+1o2OhV1gKiSG6CqZt5MCBB1gRg5ILiN3U0jEAxuDTNPRfBcnZBDmupQ==
 
 "@hotwired/turbo-rails@^7.3.0":
   version "7.3.0"
-  resolved "https://registry.yarnpkg.com/@hotwired/turbo-rails/-/turbo-rails-7.3.0.tgz#422c21752509f3edcd6c7b2725bbe9e157815f51"
+  resolved "https://registry.npmjs.org/@hotwired/turbo-rails/-/turbo-rails-7.3.0.tgz"
   integrity sha512-fvhO64vp/a2UVQ3jue9WTc2JisMv9XilIC7ViZmXAREVwiQ2S4UC7Go8f9A1j4Xu7DBI6SbFdqILk5ImqVoqyA==
   dependencies:
     "@hotwired/turbo" "^7.3.0"
@@ -127,17 +127,17 @@
 
 "@hotwired/turbo@^7.3.0":
   version "7.3.0"
-  resolved "https://registry.yarnpkg.com/@hotwired/turbo/-/turbo-7.3.0.tgz#2226000fff1aabda9fd9587474565c9929dbf15d"
+  resolved "https://registry.npmjs.org/@hotwired/turbo/-/turbo-7.3.0.tgz"
   integrity sha512-Dcu+NaSvHLT7EjrDrkEmH4qET2ZJZ5IcCWmNXxNQTBwlnE5tBZfN6WxZ842n5cHV52DH/AKNirbPBtcEXDLW4g==
 
 "@popperjs/core@^2.11.6":
   version "2.11.6"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.6.tgz#cee20bd55e68a1720bdab363ecf0c821ded4cd45"
+  resolved "https://registry.npmjs.org/@popperjs/core/-/core-2.11.6.tgz"
   integrity sha512-50/17A98tWUfQ176raKiOGXuYpLyyVMkxxG6oylzL3BPOlA6ADGdK7EYunSa4I064xerltq9TGXs8HmOk5E+vw==
 
 "@rails/actioncable@^7.0":
   version "7.0.4"
-  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-7.0.4.tgz#70a3ca56809f7aaabb80af2f9c01ae51e1a8ed41"
+  resolved "https://registry.npmjs.org/@rails/actioncable/-/actioncable-7.0.4.tgz"
   integrity sha512-tz4oM+Zn9CYsvtyicsa/AwzKZKL+ITHWkhiu7x+xF77clh2b4Rm+s6xnOgY/sGDWoFWZmtKsE95hxBPkgQQNnQ==
 
 anymatch@~3.1.2:
@@ -155,15 +155,15 @@ binary-extensions@^2.0.0:
 
 bootstrap@^5.2.3:
   version "5.2.3"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.2.3.tgz#54739f4414de121b9785c5da3c87b37ff008322b"
+  resolved "https://registry.npmjs.org/bootstrap/-/bootstrap-5.2.3.tgz"
   integrity sha512-cEKPM+fwb3cT8NzQZYEu4HilJ3anCrWqh3CHAok1p9jXqMPsPTBhU25fBckEJHJ/p+tTxTFTsFQGM+gaHpi3QQ==
 
 braces@~3.0.2:
-  version "3.0.2"
-  resolved "https://registry.npmjs.org/braces/-/braces-3.0.2.tgz"
-  integrity sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A==
+  version "3.0.3"
+  resolved "https://registry.npmjs.org/braces/-/braces-3.0.3.tgz"
+  integrity sha512-yQbXgO/OSZVD2IsiLlro+7Hf6Q18EJrKSEsdoMzKePKXct3gvD8oLcOQdIzGupr5Fj+EDe8gO/lxc1BzfMpxvA==
   dependencies:
-    fill-range "^7.0.1"
+    fill-range "^7.1.1"
 
 "chokidar@>=3.0.0 <4.0.0":
   version "3.5.2"
@@ -182,7 +182,7 @@ braces@~3.0.2:
 
 datatables.net-bs5@^1.13.4:
   version "1.13.4"
-  resolved "https://registry.yarnpkg.com/datatables.net-bs5/-/datatables.net-bs5-1.13.4.tgz#c73058782484cb84d9bc3ae9b8c0f1950b78bf2b"
+  resolved "https://registry.npmjs.org/datatables.net-bs5/-/datatables.net-bs5-1.13.4.tgz"
   integrity sha512-+gtaiau4vJeuGvnsYWmQy9gqa5XQ15XmkdwpK5EjwYCMzZZEXMQ3wfu2FddBcX5tX9Ual8C+Tf1s2gmqLGNbKQ==
   dependencies:
     datatables.net ">=1.12.1"
@@ -190,14 +190,14 @@ datatables.net-bs5@^1.13.4:
 
 datatables.net@>=1.12.1:
   version "1.13.3"
-  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.13.3.tgz#ee7d7b16b479b5075412b104d980184693b4325b"
+  resolved "https://registry.npmjs.org/datatables.net/-/datatables.net-1.13.3.tgz"
   integrity sha512-YVnz02oJsaP/OfnclBlqHkuV1il60sSVa+a0Xvs5gyiDLftmAxc+rvVAwCm7O0OpKo09N43k6EcCAf3L9WYI7g==
   dependencies:
     jquery ">=1.7"
 
 esbuild@^0.17.11:
   version "0.17.11"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.17.11.tgz#9f3122643b21d7e7731e42f18576c10bfa28152b"
+  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.17.11.tgz"
   integrity sha512-pAMImyokbWDtnA/ufPxjQg0fYo2DDuzAlqwnDvbXqHLphe+m80eF++perYKVm8LeTuj2zUuFXC+xgSVxyoHUdg==
   optionalDependencies:
     "@esbuild/android-arm" "0.17.11"
@@ -223,17 +223,17 @@ esbuild@^0.17.11:
     "@esbuild/win32-ia32" "0.17.11"
     "@esbuild/win32-x64" "0.17.11"
 
-fill-range@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.npmjs.org/fill-range/-/fill-range-7.0.1.tgz"
-  integrity sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ==
+fill-range@^7.1.1:
+  version "7.1.1"
+  resolved "https://registry.npmjs.org/fill-range/-/fill-range-7.1.1.tgz"
+  integrity sha512-YsGpe3WHLK8ZYi4tWDg2Jy3ebRz2rXowDxnld4bkQB00cc/1Zw9AWnC0i9ztDJitivtQvaI9KaLyKrc+hBW0yg==
   dependencies:
     to-regex-range "^5.0.1"
 
 fsevents@~2.3.2:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
-  integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.3.tgz#cac6407785d03675a2a5e1a5305c697b347d90d6"
+  integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
 
 glob-parent@~5.1.2:
   version "5.1.2"
@@ -278,7 +278,7 @@ jquery@>=1.7:
 
 jquery@^3.6.4:
   version "3.6.4"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.4.tgz#ba065c188142100be4833699852bf7c24dc0252f"
+  resolved "https://registry.npmjs.org/jquery/-/jquery-3.6.4.tgz"
   integrity sha512-v28EW9DWDFpzcD9O5iyJXg3R3+q+mET5JhnjJzQUZMHOv67bpSIHq81GEYpPNZHG+XXHsfSme3nxp/hndKEcsQ==
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
@@ -300,7 +300,7 @@ readdirp@~3.6.0:
 
 sass@^1.59.2:
   version "1.59.2"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.59.2.tgz#537f6d11614d4f20f97696f23ad358ee398b1937"
+  resolved "https://registry.npmjs.org/sass/-/sass-1.59.2.tgz"
   integrity sha512-jJyO6SmbzkJexF8MUorHx5tAilcgabioYxT/BHbY4+OvoqmbHxsYlrjZ8Adhqcgl6Zqwie0TgMXLCAmPFxXOuw==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
